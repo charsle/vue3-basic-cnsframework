@@ -1,7 +1,8 @@
 export default {
-    hidden: true,
-    title: '登录',
-    svgIcon: 'home',
-    name: 'Login',
-  
-  }
+  hidden: true,
+  title: '登录',
+  svgIcon: 'home',
+  name: 'Login',
+  alwaysShow:true
+
+}
