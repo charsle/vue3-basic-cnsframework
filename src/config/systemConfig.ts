@@ -13,7 +13,7 @@ export default {
     /** 是否显示页脚 Footer */
   showFooter: true,
     /** 是否显示 Logo */
-  showLogo: false,
+  showLogo: true,
   /**菜单栏logo 路径，一般把logo放在public 下面的文件夹里面 */
   sideLogo:'/static/images/logo.png',
     /** 是否显示消息通知 */

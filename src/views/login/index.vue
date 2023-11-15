@@ -5,10 +5,6 @@ import { useCNSRouteHook } from "@axewo/cnsframework"
 import { type FormInstance, type FormRules } from "element-plus"
 import { User, Lock, Key, Picture, Loading } from "@element-plus/icons-vue"
 const {router}=useCNSRouteHook()
-
-
-// const router = useRouter()
-
 /** 登录表单元素的引用 */
 const loginFormRef = ref<FormInstance | null>(null)
 
@@ -64,10 +60,9 @@ const handleLogin = () => {
 
 <template>
   <div class="login-container">
-    <!-- <ThemeSwitch class="theme-switch" /> -->
     <div class="login-card">
       <div class="title">
-        <img src="@/assets/layouts/logo-text-2.png" />
+        后台管理系统
       </div>
       <div class="content">
         <el-form ref="loginFormRef" :model="loginFormData" :rules="loginFormRules" @keyup.enter="handleLogin">
