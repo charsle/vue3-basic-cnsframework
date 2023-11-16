@@ -1,13 +1,17 @@
 <script lang="ts" setup>
 import { reactive, ref } from "vue"
 import { useRouter } from 'vue-router'
+import useDemoStore from "@/store/useDemoStore"
 import { useCNSRouteHook } from "@axewo/cnsframework"
 import { type FormInstance, type FormRules } from "element-plus"
 import { User, Lock, Key, Picture, Loading } from "@element-plus/icons-vue"
 const {router}=useCNSRouteHook()
+const {setDemo,requestConfig}=useDemoStore()
+setDemo({name:"sss"})
+console.log(requestConfig)
 /** 登录表单元素的引用 */
 const loginFormRef = ref<FormInstance | null>(null)
-
+ 
 /** 登录按钮 Loading */
 const loading = ref(false)
 /** 验证码图片 URL */
