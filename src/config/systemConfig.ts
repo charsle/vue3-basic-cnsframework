@@ -15,7 +15,7 @@ export default {
     /** 是否显示 Logo */
   showLogo: true,
   /**菜单栏logo 路径，一般把logo放在public 下面的文件夹里面 */
-  sideLogo:'/static/images/logo.png',
+  sideLogo:'/static/logo.png',
     /** 是否显示消息通知 */
   showNotify: true,
     /** 是否显示切换主题按钮 */
@@ -35,7 +35,7 @@ export default {
     // default language
     lang: 'zh-cn',
     // 标题
-    title: '',
+    title: '管理系统',
     // 系统名称
     systemName: '',
     // 版权信息
