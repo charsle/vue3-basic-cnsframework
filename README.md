@@ -156,12 +156,12 @@ export const initPermission=()=>{
 ```
 
 #### 展示效果图
-![效果图1](https://github.com/charsle/vue3-basic-cnsframework/blob/main/public/1.png)https://github.com/charsle/vue3-basic-cnsframework/blob/main/public/1.png)
+![效果图1](https://github.com/charsle/vue3-basic-cnsframework/blob/main/public/1.png))
 
-![效果图2](https://github.com/charsle/vue3-basic-cnsframework/blob/main/public/1.png)https://github.com/charsle/vue3-basic-cnsframework/blob/main/public/2.png)
+![效果图2](https://github.com/charsle/vue3-basic-cnsframework/blob/main/public/2.png)
 
-![效果图3](https://github.com/charsle/vue3-basic-cnsframework/blob/main/public/1.png)https://github.com/charsle/vue3-basic-cnsframework/blob/main/public/3.png)
+![效果图3](https://github.com/charsle/vue3-basic-cnsframework/blob/main/public/3.png)
 
-![效果图4](https://github.com/charsle/vue3-basic-cnsframework/blob/main/public/1.png)https://github.com/charsle/vue3-basic-cnsframework/blob/main/public/4.png)
+![效果图4](https://github.com/charsle/vue3-basic-cnsframework/blob/main/public/4.png)
 
-![效果图5](https://github.com/charsle/vue3-basic-cnsframework/blob/main/public/1.png)https://github.com/charsle/vue3-basic-cnsframework/blob/main/public/5.png)
+![效果图5](https://github.com/charsle/vue3-basic-cnsframework/blob/main/public/5.png)
